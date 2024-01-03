@@ -24,5 +24,7 @@ My photography:
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b&layout=compact&theme=dark"/>
+  </a>
 </p>
