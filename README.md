@@ -23,7 +23,6 @@ My photography (also a WIP!):
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b&layout=compact&theme=dark"/>
