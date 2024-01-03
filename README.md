@@ -22,3 +22,5 @@ My photography:
     <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=William-A-B&theme=transparent&hide_border=true&border_radius=0"/>
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b)](https://github.com/anuraghazra/github-readme-stats)
