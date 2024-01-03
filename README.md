@@ -19,6 +19,6 @@ My photography:
 
 <p align="center">  
   <a href="https://github.com/William-A-B">
-    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0"/>
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=William-A-B&theme=transparent&hide_border=true&border_radius=0"/>
   </a>
 </p>
