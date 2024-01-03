@@ -7,8 +7,10 @@ I am currently studying Electronic Engineering at University, and I enjoy a wide
 - And more!
 
 You can find some further details of my interests here:
+
 My personal website:
 - <a href="https://wabetteridge.co.uk">wabetteridge.co.uk</a>
+
 My photography:
 - <a href="https://willabphotography.co.uk">willabphotography.co.uk</a>
 
