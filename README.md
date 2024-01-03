@@ -25,7 +25,7 @@ My photography:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=william-a-b&show_icons=true&theme=radical)"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=william-a-b&show_icons=true&theme=highcontrast)"/>
   </a>
 </p>
 
