@@ -23,4 +23,4 @@ My photography:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b&layout=theme=dark))](https://github.com/anuraghazra/github-readme-stats)
