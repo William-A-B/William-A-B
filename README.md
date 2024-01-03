@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Hi there, I'm William!
 
-<!--
-**William-A-B/William-A-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying Electronic Engineering at University, and I enjoy a wide range of subjects inlcuding:
+- Photography
+- Hill walking
+- Minecraft
+- And more!
 
-Here are some ideas to get you started:
+You can find some further details of my interests here:
+My personal website:
+- <a href="https://wabetteridge.co.uk">wabetteridge.co.uk</a>
+My photography:
+- <a href="https://willabphotography.co.uk">willabphotography.co.uk</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<p align="center">  
+  <a href="https://github.com/William-A-B">
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0"/>
+  </a>
+</p>
