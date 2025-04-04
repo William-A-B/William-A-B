@@ -29,10 +29,3 @@ My photography (also a WIP!):
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-a-b&layout=compact&theme=dark"/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-A-B)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</p>
-
